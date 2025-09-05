@@ -1,2 +1,3 @@
 # symfony-learning-journey
-Trying to learn Symfony 7 :)
+Trying to learn things about the _Symfony 7_ Framework :)
+## 🦑
